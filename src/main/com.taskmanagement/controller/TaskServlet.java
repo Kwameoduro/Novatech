@@ -61,5 +61,3 @@ public class TaskServlet extends HttpServlet {
         resp.sendRedirect("tasks");
     }
 }
-
-

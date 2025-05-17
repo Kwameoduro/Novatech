@@ -8,9 +8,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TaskDAO {
-    private static final String URL = "jdbc:mysql://localhost:3306/task_managerdb";
+    private static final String URL = "jdbc:mysql://localhost:3306/_______";
     private static final String USER = "root";
-    private static final String PASS = "Danger200+";
+    private static final String PASS = "";
 
     static {
         try {

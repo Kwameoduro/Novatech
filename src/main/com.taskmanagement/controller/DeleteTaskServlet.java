@@ -18,3 +18,4 @@ public class DeleteTaskServlet extends HttpServlet {
         resp.sendRedirect("tasks");
     }
 }
+

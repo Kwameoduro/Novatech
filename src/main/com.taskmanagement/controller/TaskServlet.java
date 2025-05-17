@@ -11,7 +11,6 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-
 public class TaskServlet extends HttpServlet {
     private TaskDAO taskDAO = new TaskDAO();
 
@@ -44,7 +43,6 @@ public class TaskServlet extends HttpServlet {
         } else if ("dueDateDesc".equals(sort)) {
             tasks.sort(Comparator.comparing(Task::getDueDate).reversed());
         }
-
 
         req.setAttribute("tasks", tasks);
         req.getRequestDispatcher("tasklist.jsp").forward(req, resp);

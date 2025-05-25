@@ -12,6 +12,6 @@ The major class in the application:
 
 
 ### Requirement Specification
-The requirement specification document for the project can be found [here]().
+The requirement specification document for the project can be found [here](https://github.com/Kwameoduro/Novatech/blob/main/Requirement_Specification_Novatech.pdf).
 
 May the force be with you!

@@ -1,9 +1,9 @@
 # Task Management System
 
 ## Novatech
-A task management system to help rapidly expanding tech firms, cut down severe task management inefficiencies.Novatech ensures employees frequently abide by deadlines, remember critical work items, and have structured way to track their tasks.  
+A task management system to help rapidly expanding tech firms cut down severe task management inefficiencies. Novatech ensures users frequently abide by deadlines, remember critical work items, and have structured way to track their tasks.  
 
-With Novatech , employees are able to create, update, and organize tasks efficiently, ensuring tasks are properly categorized and trackable (in Progress, Pending, Completed).
+With Novatech , users are able to create, update, and organize tasks efficiently, ensuring tasks are properly categorized and trackable (in Progress, Pending, Completed).
 
 Novatech has an intuitive web interface.
 
